@@ -21,9 +21,9 @@ namespace ConsoleApp2
             int i = 2, count = 0;
             while (i < num)
             {
-                if (num % i == 0) // Əgər num i-ə tam bölünürsə
+                if (num % i == 0) 
                 {
-                    count++; // Bölən tapıldığı üçün sayğacı artırırıq
+                    count++; // 
                 }
                 i++;
 
